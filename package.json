@@ -1,4 +1,19 @@
-"repository": {
+{
+  "name": "angular-nanoscroller",
+  "version": "1.0.0",
+  "description": "Wrapper for nanoScrollerJS with AngularJS lifecycle integration",
+  "main": "scrollable.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
     "type": "git",
-    "url": "https://github.com/gracenotepublic/angular-nanoscroller.git"
+    "url": "git+https://github.com/gracenotepublic/angular-nanoscroller.git"
+  },
+  "author": "gracenote",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gracenotepublic/angular-nanoscroller/issues"
+  },
+  "homepage": "https://github.com/gracenotepublic/angular-nanoscroller#readme"
 }

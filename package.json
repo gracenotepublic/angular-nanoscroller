@@ -16,4 +16,8 @@
     "url": "https://github.com/gracenotepublic/angular-nanoscroller/issues"
   },
   "homepage": "https://github.com/gracenotepublic/angular-nanoscroller#readme"
+  "dependencies": {
+    "nanoscroller": "~0.8.0",
+    "angular": "~1.2"
+  }
 }
